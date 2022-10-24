@@ -1,0 +1,122 @@
+[
+    {
+      "superInstId": "0001",
+      "InstId": "01",
+      "TxnCorrelationId":"00001",
+      "TxnId":"01",
+      "TxnAmount":"1000",
+      "ResponseCode":"01",
+      "ResponseDesc":"Completed Successfully",
+      "MTI": "00001",
+      "RRN": "23",
+      "ResponseReceivedDate":"12-12-2022 12:45:45"
+    },
+    {
+        "superInstId": "0002",
+        "InstId": "02",
+        "TxnCorrelationId":"00002",
+        "TxnId":"02",
+        "TxnAmount":"2000",
+        "ResponseCode":"01",
+        "ResponseDesc":"Completed Successfully",
+        "MTI": "00002",
+        "RRN": "24",
+        "ResponseReceivedDate":"12-12-2022 12:45:45"
+    },
+    {
+        "superInstId": "0003",
+        "InstId": "03",
+        "TxnCorrelationId":"00003",
+        "TxnId":"03",
+        "TxnAmount":"3000",
+        "ResponseCode":"01",
+        "ResponseDesc":"Completed Successfully",
+        "MTI": "00003",
+        "RRN": "25",
+        "ResponseReceivedDate":"11-12-2021 11:45:45"
+    },
+    {
+        "superInstId": "0004",
+        "InstId": "04",
+        "TxnCorrelationId":"00004",
+        "TxnId":"04",
+        "TxnAmount":"4000",
+        "ResponseCode":"02",
+        "ResponseDesc":"Invalid PIN",
+        "MTI": "00004",
+        "RRN": "26",
+        "ResponseReceivedDate":"11-12-2021 11:45:45"
+    },
+    {
+        "superInstId": "0005",
+        "InstId": "05",
+        "TxnCorrelationId":"00005",
+        "TxnId":"05",
+        "TxnAmount":"5000",
+        "ResponseCode":"02",
+        "ResponseDesc":"Invalid PIN",
+        "MTI": "00005",
+        "RRN": "27",
+        "ResponseReceivedDate":"10-12-2022 10:45:45"
+    },
+    {
+        "superInstId": "0006",
+        "InstId": "06",
+        "TxnCorrelationId":"00006",
+        "TxnId":"06",
+        "TxnAmount":"6000",
+        "ResponseCode":"03",
+        "ResponseDesc":"Blocked Card",
+        "MTI": "00006",
+        "RRN": "28",
+        "ResponseReceivedDate":"10-12-2022 10:45:45"
+    },
+    {
+        "superInstId": "0007",
+        "InstId": "07",
+        "TxnCorrelationId":"00007",
+        "TxnId":"07",
+        "TxnAmount":"7000",
+        "ResponseCode":"03",
+        "ResponseDesc":"Blocked Card",
+        "MTI": "00007",
+        "RRN": "29",
+        "ResponseReceivedDate":"09-12-2022 09:45:45"
+    },
+    {
+        "superInstId": "0008",
+        "InstId": "08",
+        "TxnCorrelationId":"00008",
+        "TxnId":"08",
+        "TxnAmount":"8000",
+        "ResponseCode":"003",
+        "ResponseDesc":"Invalid Transaction",
+        "MTI": "00008",
+        "RRN": "30",
+        "ResponseReceivedDate":"09-12-2022 09:45:45"
+    },
+    {
+        "superInstId": "0009",
+        "InstId": "09",
+        "TxnCorrelationId":"00009",
+        "TxnId":"09",
+        "TxnAmount":"9000",
+        "ResponseCode":"003",
+        "ResponseDesc":"Invalid Transaction",
+        "MTI": "00009",
+        "RRN": "30",
+        "ResponseReceivedDate":"09-12-2022 09:45:45"
+    },
+    {
+      "superInstId": "00010",
+      "InstId": "010",
+      "TxnCorrelationId":"000010",
+      "TxnId":"10",
+      "TxnAmount":"10000",
+      "ResponseCode":"003",
+      "ResponseDesc":"Invalid Transaction",
+      "MTI": "000010",
+      "RRN": "30",
+      "ResponseReceivedDate":"09-12-2022 09:45:45"
+    }
+]
